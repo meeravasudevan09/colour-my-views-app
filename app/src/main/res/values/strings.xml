@@ -7,4 +7,7 @@
     <string name="box_five">Box Five</string>
     <string name="how_to_label">How to Play:</string>
     <string name="play_info">Tap on buttons or screen to change colours</string>
+    <string name="red">Red</string>
+    <string name="yellow">Yellow</string>
+    <string name="green">Green</string>
 </resources>
